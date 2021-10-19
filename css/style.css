@@ -76,6 +76,7 @@ SUGESTÃO DE ESTRUTURAÇÃO BASE
 	.pg-home ul li{
 		width: 186px;
 		cursor: pointer;
+		margin-right: 20px;
 	}
 
 	.pg-home figure figcaption {
@@ -83,12 +84,12 @@ SUGESTÃO DE ESTRUTURAÇÃO BASE
 	}
 
 	.img_user {
-		width: 168px;
+		width: 186px;
 		margin: 10px 0;
 	}
 
 	.pg-home li img:hover {
-		border: 2px solid rgb(255, 255, 255)
+		border: 1px solid rgb(255, 255, 255)
 	}
 
 	.pg-home ul li h3{
